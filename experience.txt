@@ -1,0 +1,22 @@
+
+    <div id="experience" class="background-alt">
+        <h2 class="heading">Experience</h2>
+        <div id="experience-timeline">
+            <div data-date="June 2021 – December 2021">
+                <h3>Johnson Matthey</h3>
+                <h4>Quality Analyst Trainee</h4>
+                <p>
+                    I was in charge of supporting the different kinds of analysis, using specialized equipment. I was present in every stage of analysis from sample preparation to report of results. We assured the correct percentage of metals in the batch. I was in constant communication with the Quality administration team.
+                </p>
+            </div>
+
+            <div data-date="January 2021 – June 2021">
+                <h3>Martinrea Honsel</h3>
+                <h4>Production Line Trainee</h4>
+                <p>
+                    I was in the hot area working with 6TON tower melting furnaces, checking the temperature and composition of the metals in the mix, solving any incoming problem in the production line. I made inventories, reports and graphs of the production. I also made a project involving the implementation of a vortex furnace to process small scrap in order to be processed properly in the plant.
+                </p>
+            </div>
+        </div>
+    </div>
+    <!-- End #experience -->
